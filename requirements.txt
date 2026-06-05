@@ -1,17 +1,17 @@
-streamlit==1.46.0
+streamlit
 
-pandas==2.3.0
-openpyxl==3.1.5
+pandas
+openpyxl
 
-sqlalchemy==2.0.41
+sqlalchemy
 
-bcrypt==4.3.0
+bcrypt
 
-reportlab==4.4.2
+reportlab
 
-python-barcode==0.15.1
-pillow==11.2.1
+python-barcode
+pillow
 
-streamlit-aggrid==1.1.5
+streamlit-aggrid
 
-xlsxwriter==3.2.3
+xlsxwriter
